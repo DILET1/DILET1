@@ -1,1 +1,1 @@
-I ÄR DÖD
+some kind of squatter
