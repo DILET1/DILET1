@@ -1,3 +1,3 @@
-Just the average unemployed "competitive" "programmer"
+Just the average unemployed "competitive" "programmer" and "game" "developer"
 Primary tool is Dev-C++ 5.11 with the ocean theme, try it out very calming
-Taking a small break from CP until finals are over, in the meantime creating a fun java game
+Taking a small break from CP and "game" "development" until i recover from applying to college
