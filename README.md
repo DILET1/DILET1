@@ -1,6 +1,6 @@
 # Welcome to the profile of Dilet!
 
-Last updated: April 8, 2026
+Last updated: April 9, 2026
 
 I'm Dilet, also known by ~some~ most as Ethan. Hi. This place is pretty empty right now, but will progressively get livlier as I start programming again now that I'm in college.
 
