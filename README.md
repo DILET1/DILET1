@@ -24,7 +24,7 @@ Since this is now a Github Pages site, here's some quick links for projects:
 
 [SchrodingerSolver](https://github.com/DILET1/SchrodingerSolver), the Schrodinger equation visualizer. Built with numpy and matplotlib.
 
-PointBalls, the tentative name for the N-body simulator, which isn't up yet.
+[PointBalls](https://github.com/DILET1/PointBalls), the tentative name for the N-body simulator, which isn't up yet.
 
 I also have a project car, a 2008 Mazda RX-8 that I'm currently rebuilding the engine in. 
 
