@@ -12,27 +12,27 @@ Also, you should try out Dev-C++'s ocean theme. Very calming.
 
 ## Projects
 
-After a brief hiatus for finals and the summer, I'm polishing my N-body simulator and will have another cool project done or almost done by the end of the quarter. 
+I primarily mess with modeling physics for now, though other random things may pop up here.
 
 
 ### Modern Projects
 
-[SchrodingerSolver](https://github.com/DILET1/SchrodingerSolver), the Schrodinger equation visualizer. Built with numpy and matplotlib. It works, I'm not polishing it.
+[PointBalls](https://github.com/DILET1/PointBalls), the N-body simulator. Using the RK4 method and Barnes-Hut simulation. May be ported to C++ someday because Python sucks at recursion. Has nice features like user-editable parameters for number of bodies, softening, force simulation method, etc. 
 
-[PointBalls](https://github.com/DILET1/PointBalls), the N-body simulator. Using the RK4 method and Barnes-Hut simulation. Currently being polished and optimized, and may be ported to C++.
+[SchrodingerSolver](https://github.com/DILET1/SchrodingerSolver), the Schrodinger equation visualizer. Built with numpy and matplotlib. Updated to use scipy sparse rather than numpy solve for significantly faster execution.
 
 I also have a project car, a 2008 Mazda RX-8 that I rebuilt the engine in, in addition to a space combat game in UE5 I'm beginning to develop. I also serve as a undergraduate researcher in a thermal design lab. 
 
-### Old Repos I Haven't Bothered Deleting
+### Old Repos
 
-[Dilet's Adventure](https://github.com/DILET1/DiletsAdventure24), a "game" I tried to make in Java/Processing 4 in 2024, as one might be able to tell. It was a fun exercise in writing OOP code, organizing a lot of classes and things, and overall a good time-killer in AP Statistics. All it really needs is a level editor and it's game time - every other system to build something basic is there.
+[Dilet's Adventure](https://github.com/DILET1/DiletsAdventure24), a "game" I tried to make in Java/Processing 4 in 2024, as one might be able to tell. It was a fun exercise in writing OOP code, organizing a lot of classes and things, and overall a good time-killer in AP Statistics. All it really needs is a level editor and it's game time - every other system to build something basic is there. I may or may not make a level editor at some point.
 
 [DiletCombatTester](https://github.com/DILET1/DiletCombatTester) something I wrote way back in 2019, that eventually got morphed into Dilet's Adventure. It's no where near as complex but I guess it inspired me to make something out of it. 
 
-[My USACO Archive](https://github.com/DILET1/usacoarchive), from my high school USACO days. ~Bad~ ~Great~ Decent enough memories. I'm going to have to go grind this stuff again, aren't I?
+[My USACO Archive](https://github.com/DILET1/usacoarchive), from my high school USACO days. ~Bad~ ~Great~ Decent enough memories. I'm have to go grind this stuff again for OAs.
 
 ### Course Archives
-I forgot I had these around! Too bad I didn't keep any others around.
+From community college classes I took in high school.
 
 [CS1A - Saddleback College, Summer 2021](https://github.com/DILET1/CS1A-Archive-)
 
